@@ -1,4 +1,6 @@
 # State Diagrams to determine Tree Tensor Network Operators
+Python implementation accompanying the manuscript [arxiv:2311.13433](https://arxiv.org/abs/2311.13433).
+
 ## Installation
 The project is coded fully in Python and can be installed using the included `pyproject.toml`-file.
 
